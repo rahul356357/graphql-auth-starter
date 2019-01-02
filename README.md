@@ -20,3 +20,9 @@ The project contains a login and signup form upon which the user can be authenti
 
 The project will run on <u> <a> localhost:4000 </a> </u>
 
+<strong> Note </strong>
+Prerequisite
+<ul>
+<li> Installed Nodejs version 8.x or above </li>
+<li> MongoDB version 3.x or above </li>
+</ul>
